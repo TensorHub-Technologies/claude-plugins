@@ -1,0 +1,14 @@
+{
+  "name": "tensorhub",
+  "description": "Plugins from TensorHub Technologies",
+  "owner": { "name": "TensorHub Technologies", "url": "https://thub.tech" },
+  "plugins": [
+    {
+      "name": "thrivex-live",
+      "source": "./plugins/thrivex-live",
+      "description": "Ask Claude about your app's users and improve THriveX Live: weekly reviews, help articles from knowledge gaps, setup and IT rollout.",
+      "category": "productivity",
+      "tags": ["thrivex-live", "support", "help-content", "user-guidance"]
+    }
+  ]
+}
